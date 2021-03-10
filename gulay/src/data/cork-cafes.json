@@ -1,0 +1,83 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "VeganKO",
+        "description": "Cafe in Cork City",
+        "cafe_id" : 1,
+        "instagram" : "https://www.instagram.com/p/CJi_DO-FCWk/"
+      },
+      "geometry": {
+        "coordinates": [-8.4775869, 51.8999872],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cafe Jane",
+        "description": "Cafe in Cork City",
+        "cafe_id" : 2,
+        "instagram" : "https://www.instagram.com/p/CIkYM_ao2Y7/"
+      },
+      "geometry": {
+        "coordinates": [-8.4775823, 51.9041939],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "143V",
+        "description": "Cafe in Cork City",
+        "cafe_id" : 3,
+        "instagram" : "https://www.instagram.com/p/CJ_I_TSFN7p/"
+      },
+      "geometry": {
+        "coordinates": [ -8.4512237,51.902761],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Umi Falafel",
+        "description": "Cafe in Cork City",
+        "cafe_id" : 4,
+        "instagram" : "https://www.instagram.com/p/CK85xP0n63N/"
+      },
+      "geometry": {
+        "coordinates": [-8.473108559400398, 51.8987598],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "My Goodness",
+        "description": "Cafe in Cork City",
+        "cafe_id" : 5,
+        "instagram" : "https://www.instagram.com/p/CI8UKGenzaQ/"
+      },
+      "geometry": {
+        "coordinates": [-8.474460128409927, 51.89763535 ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "LovingSalads",
+        "description": "Cafe in Cork City",
+        "cafe_id" : 6,
+        "instagram" : "https://www.instagram.com/p/CISlINApDbF/"
+      },
+      "geometry": {
+        "coordinates": [-8.4732376, 51.8989721],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

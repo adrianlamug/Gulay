@@ -1,0 +1,23 @@
+{
+  "name": "kape",
+  "version": "1.0.0",
+  "description": "Cafe Finder for Cork City",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianlamug/Kape.git"
+  },
+  "author": "Adrian Lamug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianlamug/Kape/issues"
+  },
+  "homepage": "https://github.com/adrianlamug/Kape#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.3",
+    "react-map-gl": "^6.1.10"
+  }
+}

@@ -1,5 +1,5 @@
-# Kape
-Kape is an interactive map containing cafes in Cork City
+# Gulay
+Gulay is an interactive map to show all the Vegan options in Cork city.
 ---
 ![AppPreview](./kape/public/preview.png)
 ---
@@ -7,7 +7,7 @@ Kape is an interactive map containing cafes in Cork City
 
 Manual  
 1. Clone the repo
-2. Go into terminal and type `cd kape`
+2. Go into terminal and type `cd gulay`
 3. Once in directory, type in `npm start`
 
 ## Usage

@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Bookshelf Coffee House",
+        "description": "Cafe in Cork City"
+      },
+      "geometry": {
+        "coordinates": [51.914820, -8.470110],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Three Fools Coffee",
+        "description": "Cafe in Cork City"
+      },
+      "geometry": {
+        "coordinates": [51.897410, -8.475050],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cork Coffee Roasters",
+        "description": "Cafe in Cork City"
+      },
+      "geometry": {
+        "coordinates": [51.901450, -8.469990],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cafe Depeche",
+        "description": "Cafe in Cork City"
+      },
+      "geometry": {
+        "coordinates": [51.897130, -8.482570],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dukes Coffee Company",
+        "description": "Cafe in Cork City"
+      },
+      "geometry": {
+        "coordinates": [51.898560, -8.473750],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Café Gusto",
+        "description": "Cafe in Cork City"
+      },
+      "geometry": {
+        "coordinates": [51.897884, -8.4757632],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alchemy",
+        "description": "Cafe in Cork City"
+      },
+      "geometry": {
+        "coordinates": [51.8939929, -8.4776579],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Perry St Market Cafe",
+        "description": "Cafe in Cork City"
+      },
+      "geometry": {
+        "coordinates": [51.9000997, -8.4716316],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lab 82 Coffee",
+        "description": "Cafe in Cork City"
+      },
+      "geometry": {
+        "coordinates": [51.90243911743164, -8.456369400024414],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dulce Bun House",
+        "description": "Cafe in Cork City"
+      },
+      "geometry": {
+        "coordinates": [51.8975138, -8.4724659],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
